@@ -48,6 +48,14 @@ defaults:
     values:
       layout: "page"
 
+Lanyon:
+  verion: 2.0.0
+  # sidebar:
+  #   position: right
+  #   sticky: true
+  # show_excerpts: true
+  ASSET_PATH : "/assets/themes/lanyon"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
